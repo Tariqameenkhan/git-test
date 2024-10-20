@@ -1,1 +1,2 @@
 print("tariq")
+print("ameen")
