@@ -2,7 +2,7 @@ print("tariq")
 print("ameen")
 print("Hello")
 
-Polymorphism:
+# Polymorphism:
 
 class User:
     def __init__(self, username, email):
